@@ -1,11 +1,12 @@
 ---
-title: "Hells Bells Game"
+title: "Click Here to Play Hell's Bells The Game"
 date: 2018-05-15
 unity_dir: HellsBells1
+layout: splash
 categories:
-  - General
+  - Game
 tags:
-  - test
+  - C#, Unity
 ---
 
-Load the game from here.
+Press the F11 key on your keyboard to switch to full screen mode.
