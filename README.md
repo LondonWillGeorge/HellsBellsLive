@@ -2,11 +2,10 @@
 Deployed on Minimal Mistakes Jekyll Theme<br>
 This repo has been forked from the Minimal Mistakes blog theme, so that I can deploy this Unity game on Github Pages.<br>
 <br>
-4 October 2018 - disabled Github Pages on this repo, as trying deployment with different repo.
-Still in progress at present.<br>
+28 April 2019 - This was unnecessarily complicated and over formats the game window inside a blog entry, copied this idea from another blog but not good way to host game I think.<br>
 <br>
-Update 20 June 2018:<br>
-Click here this is now deployed on SIMMER.io, designed for demo Unity games, it plays better here so far:
+See UnityGame repo for AWS website now deploying to.
+Old attempt at SIMMER.io also, JSON doesn't load on this one probably file name issue which was fixed on AWS version:
 https://simmer.io/@UnityWill/hells-bells<br><br>
 
 
